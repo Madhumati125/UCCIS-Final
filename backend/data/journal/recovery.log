@@ -1,0 +1,7 @@
+{"trace_id":"TRACE_FAILURE_001","recovered_from":"STALE_TELEMETRY","timestamp":"2026-05-11T05:29:23.720Z","sequence":1,"recovery_status":"RECOVERED"}
+{"trace_id":"TRACE_FAILURE_001","recovered_from":"DISCONNECTED_OPERATOR","timestamp":"2026-05-11T05:29:25.221Z","sequence":2,"recovery_status":"RECOVERED"}
+{"trace_id":"TRACE_FAILURE_001","recovered_from":"DROPPED_REPLAY_PACKET","timestamp":"2026-05-11T05:29:26.721Z","sequence":3,"recovery_status":"RECOVERED"}
+{"trace_id":"TRACE_FAILURE_001","recovered_from":"INGESTION_TIMEOUT","timestamp":"2026-05-11T05:29:28.222Z","sequence":4,"recovery_status":"RECOVERED"}
+{"trace_id":"TRACE_FAILURE_001","recovered_from":"GOVERNANCE_REJECTION","timestamp":"2026-05-11T05:29:29.722Z","sequence":5,"recovery_status":"RECOVERED"}
+{"trace_id":"TRACE_FAILURE_001","recovered_from":"DUPLICATE_EXECUTION_REQUEST","timestamp":"2026-05-11T05:29:31.222Z","sequence":6,"recovery_status":"RECOVERED"}
+{"trace_id":"TRACE_FAILURE_001","recovered_from":"REPLAY_CORRUPTION_ATTEMPT","timestamp":"2026-05-11T05:29:32.722Z","sequence":7,"recovery_status":"RECOVERED"}

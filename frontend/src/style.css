@@ -1,0 +1,83 @@
+body {
+  font-family: Arial;
+  margin: 0;
+  background: #f4f6f9;
+}
+
+h1 {
+  text-align: center;
+  background: #222;
+  color: white;
+  padding: 15px;
+  margin: 0;
+}
+
+/* 🔷 MAIN GRID */
+.main-container {
+  display: grid;
+  grid-template-columns: 2fr 2fr 1.5fr;
+  gap: 15px;
+  padding: 15px;
+}
+
+/* PANELS */
+.panel {
+  background: white;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* ZONES GRID */
+#zones {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+}
+
+.zone {
+  padding: 10px;
+  border-radius: 8px;
+  color: white;
+  text-align: center;
+}
+
+/* COLORS */
+.GREEN {
+  background: green;
+}
+.YELLOW {
+  background: orange;
+}
+.RED {
+  background: red;
+}
+
+/* ALERTS */
+#alerts div {
+  margin-bottom: 10px;
+}
+
+/* BUTTONS */
+button {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: none;
+  background: #007bff;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #0056b3;
+}
+
+/* FOOTER */
+.footer {
+  text-align: center;
+  padding: 10px;
+  background: #222;
+  color: white;
+}

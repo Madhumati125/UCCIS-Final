@@ -1,0 +1,4 @@
+{"trace_id":"TRACE_ENFORCEMENT_001","state":"SIGNAL_RECEIVED","action":"SIGNAL_CAPTURED","timestamp":"2026-05-11T05:21:02.201Z","sequence":1}
+{"trace_id":"TRACE_ENFORCEMENT_001","state":"GOVERNANCE_VISIBLE","action":"GOVERNANCE_VALIDATED","timestamp":"2026-05-11T05:21:03.201Z","sequence":2}
+{"trace_id":"TRACE_ENFORCEMENT_001","state":"ENFORCEMENT_REQUEST","action":"GENERATE_ENFORCEMENT_REQUEST","enforcement_contract":{"contract_id":"CONTRACT_1778476862199","trace_id":"TRACE_ENFORCEMENT_001","zone_id":"MUMBAI_ZONE_7","escalation_type":"FLOOD_RESPONSE","governance_validated":true,"enforcement_executed_by_uccis":false,"created_at":"2026-05-11T05:21:02.200Z"},"timestamp":"2026-05-11T05:21:04.201Z","sequence":3}
+{"trace_id":"TRACE_ENFORCEMENT_001","state":"EXTERNAL_ACKNOWLEDGEMENT","action":"EXTERNAL_ENFORCEMENT_ACKNOWLEDGED","acknowledged_by":"DISASTER_RESPONSE_UNIT","external_system":true,"timestamp":"2026-05-11T05:21:05.201Z","sequence":4}

@@ -1,0 +1,7 @@
+{"trace_id":"TRACE_FAILURE_001","failure_type":"STALE_TELEMETRY","timestamp":"2026-05-11T05:29:23.719Z","sequence":1,"lineage_preserved":true,"replay_continuity_preserved":true,"audit_trail_preserved":true}
+{"trace_id":"TRACE_FAILURE_001","failure_type":"DISCONNECTED_OPERATOR","timestamp":"2026-05-11T05:29:24.720Z","sequence":2,"lineage_preserved":true,"replay_continuity_preserved":true,"audit_trail_preserved":true}
+{"trace_id":"TRACE_FAILURE_001","failure_type":"DROPPED_REPLAY_PACKET","timestamp":"2026-05-11T05:29:25.721Z","sequence":3,"lineage_preserved":true,"replay_continuity_preserved":true,"audit_trail_preserved":true}
+{"trace_id":"TRACE_FAILURE_001","failure_type":"INGESTION_TIMEOUT","timestamp":"2026-05-11T05:29:26.721Z","sequence":4,"lineage_preserved":true,"replay_continuity_preserved":true,"audit_trail_preserved":true}
+{"trace_id":"TRACE_FAILURE_001","failure_type":"GOVERNANCE_REJECTION","timestamp":"2026-05-11T05:29:27.722Z","sequence":5,"lineage_preserved":true,"replay_continuity_preserved":true,"audit_trail_preserved":true}
+{"trace_id":"TRACE_FAILURE_001","failure_type":"DUPLICATE_EXECUTION_REQUEST","timestamp":"2026-05-11T05:29:28.722Z","sequence":6,"lineage_preserved":true,"replay_continuity_preserved":true,"audit_trail_preserved":true}
+{"trace_id":"TRACE_FAILURE_001","failure_type":"REPLAY_CORRUPTION_ATTEMPT","timestamp":"2026-05-11T05:29:29.722Z","sequence":7,"lineage_preserved":true,"replay_continuity_preserved":true,"audit_trail_preserved":true}
